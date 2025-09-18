@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+/* * {
+  outline: solid 1px red;
+} */
+
+:root {
+  --soft-primary: #916ada;
+  --main-font: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: var(--main-font);
+}
