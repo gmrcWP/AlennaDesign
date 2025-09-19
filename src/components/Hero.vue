@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section id="inicio" class="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#ebe2f7] via-[#f9eefc] to-[#ffeed4] pt-20">
+  <section id="inicio" class="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#ebe2f7] via-[#fdf2f8] to-[#ffeed4] pt-20">
     <div class="max-w-7xl xl:max-w-[1400px] 2xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16">
       <div class="flex flex-col-reverse md:flex-row items-center gap-8 lg:gap-12 xl:gap-16 2xl:gap-20">
         
@@ -11,7 +11,7 @@
             Purr-fect <span class="text-[var(--primary)] font-[var(--montserrat)]">3D Printed</span><br />
             Cat Gadgets
           </h1>
-          <p class="mt-6 lg:mt-8 text-lg lg:text-xl xl:text-2xl font-[var(--montserrat)] text-gray-700 leading-relaxed">
+          <p class="mt-6 lg:mt-8 text-lg lg:text-xl font-[var(--montserrat)] text-gray-700 leading-relaxed">
             Discover our amazing collection of 3D printed cat accessories, toys, and
             gadgets that will make your feline friends purr with joy.
           </p>
