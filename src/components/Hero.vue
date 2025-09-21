@@ -34,7 +34,7 @@
         </div>
 
         <div class="flex-1 flex items-center justify-center mt-10 md:mt-0">
-          <div class="w-[360px] h-[280px] md:w-[300px] md:h-[220px] lg:w-[400px] lg:h-[300px] xl:w-[500px] xl:h-[380px] 2xl:w-[630px] 2xl:h-[440px] bg-blue-300 rounded-2xl shadow-lg"></div>
+          <img src="@/assets/product1.jpg" loading="lazy" class="w-[360px] h-[280px] md:w-[300px] md:h-[220px] lg:w-[400px] lg:h-[300px] xl:w-[500px] xl:h-[380px] 2xl:w-[630px] 2xl:h-[440px] bg-blue-300 rounded-2xl shadow-lg" />
         </div>
 
       </div>
