@@ -20,7 +20,7 @@
           <div class="mt-8 lg:mt-10 flex flex-col sm:flex-row gap-3 lg:gap-6 sm:justify-start justify-center">
             <a
               href="#"
-              class="px-8 py-4 lg:py-5 text-base lg:text-lg rounded-full bg-[var(--primary)] text-white font-semibold shadow-md hover:bg-violet-600 transition"
+              class="px-8 py-4 lg:py-5 text-base lg:text-lg rounded-full bg-[var(--primary)] text-white font-semibold shadow-md hover:bg-[#713aed] transition"
             >
               Shop Now
             </a>
@@ -34,7 +34,7 @@
         </div>
 
         <div class="flex-1 flex items-center justify-center mt-10 md:mt-0">
-          <img src="@/assets/product1.jpg" loading="lazy" class="w-[360px] h-[280px] md:w-[300px] md:h-[220px] lg:w-[400px] lg:h-[300px] xl:w-[500px] xl:h-[380px] 2xl:w-[630px] 2xl:h-[440px] bg-blue-300 rounded-2xl shadow-lg" />
+          <img src="@/assets/hero.jpg" loading="lazy" class="w-[360px] h-[280px] md:w-[300px] md:h-[220px] lg:w-[400px] lg:h-[300px] xl:w-[500px] xl:h-[380px] 2xl:w-[630px] 2xl:h-[440px] bg-blue-300 rounded-2xl shadow-lg" />
         </div>
 
       </div>
