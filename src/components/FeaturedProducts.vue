@@ -33,8 +33,7 @@ const products: Product[] =[
         name: "Cat Desk Organizer",
         description: "Multi-compartment organizer with cat design",
         price: 32.99,
-    },
-    
+    },  
 ];
 
 </script>
