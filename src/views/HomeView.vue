@@ -9,7 +9,7 @@ import Contact from '@/components/Contact.vue';
 <template>
   <Hero />
   <Features />
-  <FeaturedProducts />
+  <FeaturedProducts :max-products="4"/>
   <About />
   <Contact />
 </template>

@@ -3,7 +3,7 @@ import { Icon } from '@iconify/vue'
 </script>
 
 <template>
-  <section class="flex items-center justify-center py-5 md:py-15 bg-[#f9fafc]">
+  <section id="contacto" class="flex items-center justify-center py-5 md:py-15 bg-[#f9fafc]">
     <div class="max-w-7xl xl:max-w-[1400px] 2xl:max-w-[1600px] mx-auto px-4 lg:px-8 xl:px-12 2xl:px-16">
       <!-- Header Text -->
   <div class="text-center mb-12">
